@@ -1,0 +1,5 @@
+auca\ac\rw\restfullApiAssignment\modal\ecommerce\Product.class
+auca\ac\rw\restfullApiAssignment\service\ProductService.class
+auca\ac\rw\restfullApiAssignment\controller\ProductController.class
+auca\ac\rw\restfullApiAssignment\repository\ProductRepository.class
+auca\ac\rw\restfullApiAssignment\RestfullApiAssignmentApplication.class
